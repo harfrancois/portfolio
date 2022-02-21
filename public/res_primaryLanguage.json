@@ -1,0 +1,99 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "My name is Harvey Francois. I am a software developer and student here at Code Fellows, class 301. I have a fascination with machine learning, AI, and robotics. I had my first experience with coding in college, in a robotics class programming robots and I loved it. This is why I have a real interest in learning Python. I heard of Code Fellows through a friend of mine that went through the program and he told me to try it out. I have one major goal for myself and that is a career doing something that I enjoy doing and that coding. So I decided to make a career change. Now I am at Code Fellows and enjoying every moment of it.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "This is my Salmon Cookies web site.",
+        "images": [
+          "images/portfolio/salmonCookies/salmon-cookies.png"
+        ],
+        "url": "https://github.com/harfrancois/cookieStand2",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Html"
+          },
+          {
+            "class": "",
+            "name": "CSS"
+          },
+          {
+            "class": "",
+            "name": "Java Script"
+          }
+        ]
+      },
+      {
+        "title": "Buss Mall",
+        "startDate": "2022",
+        "description": "This is my Bus Mall app.",
+        "images": [
+          "images/portfolio/bussMall/bus-mall.png"
+        ],
+        "url": "https://github.com/harfrancois/bus-mall",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Html"
+          },
+          {
+            "class": "",
+            "name": "CSS"
+          },
+          {
+            "class": "",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Final project",
+        "startDate": "2022",
+        "description": "this is my final project for 201",
+        "images": [
+          "images/portfolio/finalProject/final-project.png"
+        ],
+        "url": "https://github.com/Dcastro99/git-help",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Html"
+          },
+          {
+            "class": "",
+            "name": "Java Script"
+          },
+          {
+            "class": "",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Code Fellows",
+        "title": "Developer/Student",
+        "years": "10.2021 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Html",
+          "Css",
+          "JavaScript",
+          "React"
+        ]
+      }
+    ]
+  }

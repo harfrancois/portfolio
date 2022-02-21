@@ -1,0 +1,44 @@
+{
+    "basic_info": {
+      "name": "Harvey Francois",
+      "titles": [ "Software Developer/CodeFellows Student" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/harfrancois",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "http://www.linkedin.com/in/harfrancois",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": ""
+        },
+        
+        {
+          "name": "JavaScript",
+          "class": "",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "",
+          "level": "85"
+        }
+       
+      ]
+    }
+  }
